@@ -8,8 +8,5 @@ After data cleaning, we performed Exploratory Data Analysis (EDA) on the cleaned
 
 This analysis helps identify trends, patterns, and types of industries that have laid off employees over time. We cleaned about 20% of the data, making it more meaningful and insightful regarding the companies that laid off employees at different times.
 
-I learned this from @AlexTheAnalyst using his provided dataset, which can be found here: [layoffs dataset](https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/layoffs.csv). Inspired by his techniques, I further cleaned and transformed the data to gain deeper insights. Beyond what I learned from Alex, I made additional improvements to highlight the areas I developed independently.
+I learned this from [AlexTheAnalyst](https://github.com/AlexTheAnalyst) using his provided dataset, which can be found here: [layoffs dataset](https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/layoffs.csv). Inspired by his techniques, I further cleaned and transformed the data to gain deeper insights. Beyond what I learned from Alex, I made additional improvements to highlight the areas I developed independently.
 
-## License
-
-This repository is not licensed for any use. The code contained herein can be viewed on GitHub but cannot be copied, modified, or distributed in any form. All rights are reserved by the author. Unauthorized use is strictly prohibited.
